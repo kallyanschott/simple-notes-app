@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-notes-app/static/css/main.5f3ef709.chunk.css",
+    "main.js": "/simple-notes-app/static/js/main.1acc551f.chunk.js",
+    "main.js.map": "/simple-notes-app/static/js/main.1acc551f.chunk.js.map",
+    "runtime-main.js": "/simple-notes-app/static/js/runtime-main.ce54d4e1.js",
+    "runtime-main.js.map": "/simple-notes-app/static/js/runtime-main.ce54d4e1.js.map",
+    "static/css/2.2c2c17a8.chunk.css": "/simple-notes-app/static/css/2.2c2c17a8.chunk.css",
+    "static/js/2.d5344682.chunk.js": "/simple-notes-app/static/js/2.d5344682.chunk.js",
+    "static/js/2.d5344682.chunk.js.map": "/simple-notes-app/static/js/2.d5344682.chunk.js.map",
+    "index.html": "/simple-notes-app/index.html",
+    "static/css/2.2c2c17a8.chunk.css.map": "/simple-notes-app/static/css/2.2c2c17a8.chunk.css.map",
+    "static/css/main.5f3ef709.chunk.css.map": "/simple-notes-app/static/css/main.5f3ef709.chunk.css.map",
+    "static/js/2.d5344682.chunk.js.LICENSE.txt": "/simple-notes-app/static/js/2.d5344682.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce54d4e1.js",
+    "static/css/2.2c2c17a8.chunk.css",
+    "static/js/2.d5344682.chunk.js",
+    "static/css/main.5f3ef709.chunk.css",
+    "static/js/main.1acc551f.chunk.js"
+  ]
+}
