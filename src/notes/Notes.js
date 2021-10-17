@@ -82,7 +82,7 @@ export default class Notes extends Component {
         return (
             <div className="row d-flex justify-content-center">
                 <div className="my-2 col-md-10 p-2">
-                    <h3 className="text-center d-lg-none">Simple Note App</h3>
+                    <h3 className="text-center d-lg-none">Simple Notes App</h3>
                     <hr className="d-lg-none"/>
                     <div className="d-flex gap-2">
                         <div className="col-1 col-lg-3">
@@ -95,7 +95,7 @@ export default class Notes extends Component {
                                 <input className="form-control bg-dark text-white" type="text" placeholder="Search" onChange={this.searchChange}/>
                             </div>
                         </div>
-                        <div className="d-none d-lg-block col-1 col-lg-3 pt-1"><h4 className="text-center">Simple Note App</h4></div>
+                        <div className="d-none d-lg-block col-1 col-lg-3 pt-1"><h4 className="text-center">Simple Notes App</h4></div>
                     </div>
                     <hr />
                     <div className="modal fade" id="newNoteModal" tabIndex="-1">
